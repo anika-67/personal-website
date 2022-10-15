@@ -1,0 +1,118 @@
+.first{
+    background-image: url("images/header-bg.png");
+    height: 400px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10% 20% 10% 20%;
+}
+.part-a{
+    width: 40%;
+    float: left;
+}
+#center{
+width: 400px;
+  margin-left: 20%;
+  height: 400px;
+}
+.part-a h2{
+    font-size: 20px;
+    font-family:sans-serif;
+}
+.part-a h1{
+    color: rgb(209, 17, 94);
+    font-family:TT Interphases Pro ExtraBold;
+    font-size: 50px;
+}
+.part-a p{
+    font-family: calibri;
+    color: rgb(35, 33, 33);
+}
+.btn{
+    
+    border-radius: 5px;
+    background-image: linear-gradient(45deg,rgb(249, 120, 144), rgba(255, 0, 115, 0.9));
+    border: 1px;
+    padding: 10px 40px 10px 40px;
+    margin-top: 20px;
+    
+}
+.btn a{
+    text-decoration: none;
+    font-size: 15px;
+    color: white;
+    font-family:  Calibri;
+}
+.second{
+    background-image: url("images/biography-bg.png");
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 10% ;
+    padding-left: 50px;
+}
+.part-b{
+    width: 40%;
+    float: left;  
+    overflow: hidden;
+    min-width: 580px;
+    text-align: justify;
+    
+}
+#text{
+    justify-content: center;
+   padding: 50px;
+}
+.part-b p{
+    font-family: calibri;
+    color: rgb(35, 33, 33);
+}
+.part-b h2{
+    font-size: 20px;
+    font-family:sans-serif;
+}
+.part-b img{
+    width: 60%;
+    height: 400px;
+    margin-left: 10%;
+}
+.third{
+    background-image: url("images/latest-work-bg.png");
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10% 10% 0 10% ;
+    
+}
+.third img{
+    height: 300px;
+   
+}
+.third h1{
+    text-align: center;
+    font-family:  Calibri;
+    font-size: 30px;
+}
+.work{
+    float: left;
+    width:30%;
+    padding-top: 50px;
+}
+.forth {
+    text-align: center;
+    font-family: calibri;
+    background-image: url("images/footer-bg.png");
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10% 10% 5% 10% ;
+}
+.pink{
+    background-image: linear-gradient(45deg,rgb(234, 133, 151), rgba(255, 0, 115, 0.9));
+    height: 150px;
+    width: 60%;
+    margin: 5% 20% 0 20%;
+    border-radius: 10px;
+    padding: 20px;
+    color: white;
+    text-align: center;
+}
